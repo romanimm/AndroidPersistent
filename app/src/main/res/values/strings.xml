@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Persitenz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text_subTitle">HSLU Mobile Programming</string>
+    <string name="main_text_appPreferences">Application-Preferences</string>
+    <string name="main_text_appPreferences_open">MainActivity.onResume() wurde seit der Installation dieser App %1$s mal aufgerufen.</string>
+    <string name="main_button_tee_preferences_edit">Tee-Preferences editieren</string>
+    <string name="main_button_tee_set_default">Tee Default-Prefs setzen</string>
+    <string name="main_text_fileSystem">Datei-System</string>
+    <string name="main_editText_fileSystem_input_text">Irgendein Text</string>
+    <string name="main_checkBox_extern">Externen Speicher benutzen</string>
+    <string name="main_button_fileSystem_save">Speichern</string>
+    <string name="main_button_fileSystem_load">Laden</string>
+    <string name="main_text_appPreferences_fav">Ich trinke am liebsten %1$s, mit %2$s gesüsst.</string>
+    <string name="main_text_appPreferences_fav_noSuggar">Ich trinke am liebsten %1$s</string>
+    <string name="prefs_teaPreferred">Lipton/Pfefferminze</string>
+
+</resources>
